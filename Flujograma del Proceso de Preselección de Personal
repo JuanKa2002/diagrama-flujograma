@@ -1,0 +1,7 @@
+graph TD
+    A[Recepción de CV] --> B[Filtro Inicial (Revisión de CV)]
+    B --> C[Selección de Candidatos Válidos]
+    C --> D[Revisión de Experiencia y Estudios]
+    D --> E[Contacto con Candidatos Preseleccionados]
+    E --> F[Programación de Entrevistas]
+    F --> G[Fin del Proceso de Preselección]
